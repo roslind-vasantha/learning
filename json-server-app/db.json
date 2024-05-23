@@ -1,0 +1,11 @@
+{
+  "sensor": {
+    "MacAddress": "000DE09207AC",
+    "MsgTimeStamp": "2023-08-11 17:37:29",
+    "Humidity": "75.2",
+    "TemperatureC": "24.3",
+    "TemperatureF": "75.7",
+    "DewPointC": "19.6",
+    "DewPointF": " 67.3"
+  }
+}
